@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: laxmi parikh
+Skills: HTML, CSS, JS, mERN js, c# .asp.net core ,mvc,python 
+Email: laxmi.parmar30@gmail.com
+{{/user}}
